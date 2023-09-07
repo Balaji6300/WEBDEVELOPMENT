@@ -1,6 +1,5 @@
-# CODESOFT-WEBDEVELOPMENT
-    LEVEL 1:
-       TASK 1: LANDING PAGE
+# WEBDEVELOPMENT
+     LANDING PAGE
            
             A landing page is an ideal web development project for beginners. It requires basic knowledge of HTML and CSS. Through this project, you'll 
             learn to create columns, divide sections, arrange items, and add headers and footers. The most important aspect is unleashing your creativity 
@@ -9,7 +8,7 @@
             a visually appealing and user-friendly design.
 
 
-LEVEL 1 -> TASK 2: PORTFOLIO 
+PORTFOLIO 
        
                  Creating a personal portfolio using CSS and HTML is a popular beginner web development project. Header Section: Add your name or a logo at
                  the top. Optionally, include a brief introduction or tagline. About Section: Insert an image of yourself. Write a short bio highlighting 
@@ -18,7 +17,7 @@ LEVEL 1 -> TASK 2: PORTFOLIO
                  format. Contact Section: Include your contact information, such as email address and phone number.Footer: Add a copyright notice and 
                  any additional links or information
 
-LEVEL 1 -> TASK 3: CALCULATOR:
+CALCULATOR:
                        
                         To create a basic calculator using CSS, HTML, and JavaScript, you'll need to implement
                         aninteractive interface with buttons for addition, subtraction, multiplication, and 
